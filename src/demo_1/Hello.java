@@ -10,4 +10,8 @@ public void hello()
 {
 	System.out.println("hi......");
 }
+public void helloo()
+{
+	System.out.println("hi......");
+}
 }
